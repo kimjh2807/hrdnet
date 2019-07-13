@@ -98,7 +98,7 @@ for page in range(1, 3): # 753):
 
 # print (tour_list, len(tour_list) )
 # print (tour_list, len(tour_list) )
-
+# print (tour_list, len(tour_list) )
 #    print( tour_list, len(tour_list) )
 
     # 수집한 정보 개수를 루프 => 페이지 방문 => 콘텐츠 획득(상품상세정보)
